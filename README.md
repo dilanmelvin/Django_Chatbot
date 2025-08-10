@@ -180,6 +180,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 If you have any questions or run into issues:
 
 - 📧 **Email**: dilan4524melvin@gmail.com
+- 💼 **LinkedIn**: [T. Dilan Melvin](https://www.linkedin.com/in/t-dilan-melvin/)
 - 🐛 **Issues**: [GitHub Issues](https://github.com/dilanmelvin/Django_Chatbot/issues)
 - 💬 **Discussions**: [GitHub Discussions](https://github.com/dilanmelvin/Django_Chatbot/discussions)
 
